@@ -10,7 +10,7 @@ module Visjar
         klass.run(client, slack, recast) if route == recast.intent
       end
     rescue StandardError => e
-      client.send_message(slack['channel'], "Sorry, I can't handle this request now, but the team at RecastAI is working to fix it!")
+      client.send_message(slack['channel'], "BEEP DERP BOOP DORP. Sorry, I can't handle this request now, but the team at RecastAI is working to fix it!")
 
       Log.error("#{e.class}: #{e}")
       Log.error(e.backtrace)

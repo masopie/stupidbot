@@ -28,7 +28,7 @@ module Visjar
 
           client.send_message(slack['channel'], answer)
         else
-          client.send_message(slack['channel'], "Sorry, I can't handle time spans just yet!")
+          client.send_message(slack['channel'], "BERP BURP DERP BEEP DURP. Sorry, I can't handle time spans just yet!")
         end
       end
 
