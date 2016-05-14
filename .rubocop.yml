@@ -1,0 +1,24 @@
+Metrics/ClassLength:
+    Max: 999
+Metrics/ModuleLength:
+    Max: 999
+Metrics/LineLength:
+    Max: 9999
+Metrics/MethodLength:
+    Max: 999
+Metrics/AbcSize:
+    Max: 999
+Metrics/CyclomaticComplexity:
+    Max: 999
+Metrics/PerceivedComplexity:
+    Max: 999
+Metrics/BlockNesting:
+    Max: 4
+Style/Documentation:
+    Enabled: false
+Style/SpaceBeforeBlockBraces:
+    EnforcedStyle: no_space
+Style/RedundantSelf:
+    Enabled: false
+Style/WordArray:
+    Enabled: false

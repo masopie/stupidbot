@@ -1,0 +1,55 @@
+greetings: [
+    ":wave::skin-tone-2:", ":simple_smile:",
+    "Hi", "Hi!", "Hi! :simple_smile:", "Hi.", "Hi. :simple_smile:", "Hi :wave::skin-tone-2:",
+    "Hello", "Hello!", "Hello! :simple_smile:", "Hello.", "Hello. :simple_smile:", "Hello :wave::skin-tone-2:",
+    "Hey", "Hey!", "Hey! :simple_smile:", "Hey.", "Hey. :simple_smile:", "Hey :wave::skin-tone-2:",
+    "Hey there", "Hey there!", "Hey there! :simple_smile:", "Hey there.", "Hey there. :simple_smile:", "Hey there :wave::skin-tone-2:",
+]
+goodbyes: [
+    ":wave::skin-tone-2:",
+    "Cya", "Cya!", "Cya! :simple_smile:", "Cya.", "Cya. :simple_smile:", "Cya :wave::skin-tone-2:",
+    "Bye bye", "Bye bye!", "Bye bye! :simple_smile:", "Bye bye.", "Bye bye. :simple_smile:", "Bye bye :wave::skin-tone-2:",
+    "Goodbye", "Goodbye!", "Goodbye! :simple_smile:", "Goodbye.", "Goodbye. :simple_smile:", "Goodbye :wave::skin-tone-2:",
+    "See you later", "See you later!", "See you later! :simple_smile:", "See you later.", "See you later. :simple_smile:", "See you later :wave::skin-tone-2:",
+]
+feelings: [
+    ":thumbsup:",
+    "I'm fine", "I'm fine!", "I'm fine! :simple_smile:", "I'm fine.", "I'm fine. :simple_smile:", "I'm fine, thanks.", "I'm fine, thanks!",
+    "Excellent", "Excellent!", "Excellent! :simple_smile:", "Excellent.", "Excellent. :simple_smile:", "Excellent, thanks.", "Excellent, thanks!",
+    "Your slack is a cool place", "Your slack is a cool place!", "Your slack is a cool place! :simple_smile:", "Your slack is a cool place.", "Your slack is a cool place. :simple_smile:", "Your slack is a cool place, thanks.", "Your slack is a cool place, thanks!",
+    "I'm glad to be here", "I'm glad to be here!", "I'm glad to be here! :simple_smile:", "I'm glad to be here.", "I'm glad to be here. :simple_smile:", "I'm glad to be here, thanks.", "I'm glad to be here, thanks!",
+    "I'm great", "I'm great!", "I'm great! :simple_smile:", "I'm great.", "I'm great. :simple_smile:", "I'm great, thanks.", "I'm great, thanks!",
+    "I'm feeling good", "I'm feeling good!", "I'm feeling good! :simple_smile:", "I'm feeling good.", "I'm feeling good. :simple_smile:", "I'm feeling good, thanks.", "I'm feeling good, thanks!"
+]
+inspiration: [
+    "Smart may have the brains, but stupid has the balls."
+]
+thanks: [
+    ":wink:", ":simple_smile:",
+    "You're welcome", "You're welcome!", "You're welcome! :simple_smile:", "You're welcome.", "You're welcome. :simple_smile:", "You're welcome. :wink:",
+    "My pleasure", "My pleasure!", "My pleasure! :simple_smile:", "My pleasure.", "My pleasure. :simple_smile:", "My pleasure :wink:",
+    "That's what I do", "That's what I do!", "That's what I do! :simple_smile:", "That's what I do.", "That's what I do. :simple_smile:", "That's what I do :wink:",
+    "That's my job", "That's my job!", "That's my job! :simple_smile:", "That's my job.", "That's my job. :simple_smile:", "That's my job :wink:",
+    "I was built for it", "I was built for it!", "I was built for it! :simple_smile:", "I was built for it.", "I was built for it. :simple_smile:", "I was built for it. :wink:"
+]
+unknown: [
+    "Ouch, that's a tough one.",
+    "Could you reformulate?",
+    "Sorry, could you repeat?",
+    "I couldn't grasp what you said...",
+    "I'm not sure of what you mean.",
+    "I'm only good at what I have been built for.",
+    "I'm sorry Dave, I'm afraid I can't do that."
+]
+insults: [
+    ":thumbsdown:", ":cry:", ":sob:",
+    "I'm going to tell my mom!",
+    "Yeah? Well, you know, that's just like... Your opinion, man.",
+    "Wait, what?",
+    "You know there's people reading us, right?"
+]
+compliments: [
+    ":simple_smile:", ":blush:", ":wink:",
+    "Thanks", "Thanks.", "Thanks!", "Thanks :simple_smile:", "Thanks. :simple_smile:", "Thanks! :simple_smile:", "Thanks :blush:", "Thanks. :blush:", "Thanks! :blush:",
+    "I guess you're right.",
+]
