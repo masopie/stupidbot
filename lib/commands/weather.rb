@@ -17,7 +17,7 @@ module Visjar
       }
 
       def self.run(client, slack, recast)
-        # Get informations about the request
+        # Get information about the request
         @location = recast.get('location') || Config.location
         @datetime = recast.get('datetime') || RecastAI::Entity.new('datetime', 'value' => Time.now.to_i, 'raw' => 'today')
         @duration = recast.get('duration')
