@@ -5,8 +5,8 @@ module Visjar
         response = HTTParty.get("http://api.wolframalpha.com/v2/query?input=#{slack["text"]}&appid=V68RPP-53H3P99KEW")
         data = response.parsed_response
         Log.info("#{data}")
+        pod = data["queryresult"]["pod"][0..-2]
 
-        
 
         client.send_message(slack["channel"], title)
         client.send_message(slack["channel"], image)
