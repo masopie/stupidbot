@@ -6,7 +6,7 @@ module Visjar
         data = response.parsed_response
         Log.info("#{data}")
         pod = data["queryresult"]["pod"][0..-2]
-
+        p pod
 
         client.send_message(slack["channel"], title)
         client.send_message(slack["channel"], image)
