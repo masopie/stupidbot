@@ -1,3 +1,6 @@
+consumer_suggestions: [
+  "Try http://www.craigslist.com/. And gird your loins."
+]
 greetings: [
     ":wave::skin-tone-2:", ":simple_smile:",
     "Hi", "Hi!", "Hi! :simple_smile:", "Hi.", "Hi. :simple_smile:", "Hi :wave::skin-tone-2:",
@@ -25,7 +28,7 @@ inspiration: [
     "Smart may have the brains, but stupid has the balls."
 ]
 reaction: [
-    ":feelsgood:", ":satisfied:", ":smile:", ":grin:", ":anguished:", ":neutral_face:", ":expressionless:", ":sleeping:", ":astonished:" 
+    ":feelsgood:", ":satisfied:", ":smile:", ":grin:", ":anguished:", ":neutral_face:", ":expressionless:", ":sleeping:", ":astonished:"
 ]
 thanks: [
     ":wink:", ":simple_smile:",
