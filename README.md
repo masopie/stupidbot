@@ -1,6 +1,6 @@
 # Stupidbot
 
-![](misc/visjar.png)
+![](misc/stupidbot.png)
 
 ~~## Visjar Synopsis~~
 
