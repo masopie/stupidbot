@@ -15,4 +15,4 @@ A beefed up Visjar! Uses the Recast API for training natural language learning &
 
 1. Clone down repo.
 2. Go make a Recast.ai account!
-••*http://www.recast.ai/
+••* http://www.recast.ai/
