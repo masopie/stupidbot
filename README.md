@@ -9,3 +9,9 @@
 ## Stupidbot Synposis
 
 A beefed up Visjar. Uses the Recast API for training natural language learning & Wolfram Alpha API for intelligent data return.
+
+
+### So you want to set up a Stupidbot.
+
+1. Clone down repo.
+2. 
