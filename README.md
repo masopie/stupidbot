@@ -15,4 +15,8 @@ A beefed up Visjar! Uses the Recast API for training natural language learning &
 
 1. Clone down repo.
 2. Go make a Recast.ai account!
-  * http://www.recast.ai/
+  * http://www.recast.ai/ !
+  * Register!
+  * Make a bot! Name your bot!
+  * Get your the **Request access token** from Recast.ai for one half of your bot's brain. You'll need it for your parameters file!
+  * We'll come back to Recast later for more stupid-ing.
