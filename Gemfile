@@ -6,11 +6,14 @@ group :default do
   gem 'safely'
 
   # APIs
-  gem 'RecastAI', require: 'recastai'
+  gem 'RecastAI', '~> 1.0.2', require: 'recastai'
   gem 'slack-ruby-client'
   gem 'faye-websocket'
   gem 'httparty'
+  gem 'httmultiparty', '~> 0.3.16'
   gem 'forecast_io'
+  gem 'mimemagic', '~> 0.3.2'
+  gem 'multipart-post', '~> 2.0.0'
 
   # Utils
   gem 'activesupport', require: 'active_support'
